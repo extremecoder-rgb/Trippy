@@ -117,8 +117,3 @@ MIT – Feel free to use, remix, or contribute.
 Built with ❤️ using [n8n](https://n8n.io), OpenAI, Claude, and the power of automation.
 
 ```
-
----
-
-Let me know if you'd like the README file saved or uploaded into a GitHub repo, or if you'd like badges, diagrams, or a sample JSON export reference added.
-```
